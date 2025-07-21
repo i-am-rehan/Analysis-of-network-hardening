@@ -29,5 +29,5 @@ The organization suffered a data breach that compromised customers' personal inf
 
 ## 📁 Supporting Files
 
-- 📄 [Security Risk Assessment Report](./Security%20risk%20assessment%20report.docx)
+- 📄 [Security Risk Assessment Report](https://docs.google.com/document/d/1c9nD6F5mxf4u7pJR5cbyV3Ud_CcaD0rh6N2Bh0UYAcs/edit?usp=sharing)
 - 📊 [Network Hardening Tools Table](./Network%20hardening%20tools.xlsx)
